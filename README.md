@@ -6,20 +6,17 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.kaggle.com/ujwalkandi" target="_blank">Ujwal Kandi</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h2>
 
-### I'm a recent Computer Engineering undergraduate
-
-- 🔭 I’m currently working on a 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 I'm a recent Computer Engineering undergraduate 
+- 💻 I’m currently learning *React* and *D3.js*
+- 💬 Ask me about EDA, Data Viz and 
 - ⭐ 2020's Objective: Contribute more to open source
+- ⚡ Fun fact: The universe is vaster than anything else in the universe. 
 
 ## Connect with me!
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px"href="https://public.tableau.com/profile/ujwal.kandi#!/" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][tableau]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][tableau]
 
 <br />
 
@@ -62,29 +59,6 @@
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
  
- #########################################################
-
-
- ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-
-
-### Hi there 👋
-
-[![HitCount](http://hits.dwyl.com/amrrs/amrrs.svg)](http://hits.dwyl.com/amrrs/amrrs) ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Famrrs)
-
-<!--
-**amrrs/amrrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on taking rest
-- 🌱 I’m currently learning how to be patient and persevere
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: @amrrs (Github) 
-- ⚡ Fun fact: I hate language wars
 
 #########################################################
 https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md
