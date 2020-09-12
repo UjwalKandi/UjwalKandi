@@ -1,8 +1,9 @@
+ ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
+<h1 align="left">Hi there, I'm <a href="https://www.kaggle.com/ujwalkandi" target="_blank">Ujwal Kandi</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32" /></h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+## I'm a recent Computer Engineering undergraduate
+- 🔭 I’m currently working on a 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
@@ -10,10 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Hi there, I'm Ujwal Kandi 👋 👨🏻‍💻 🧑🏻‍💻
-
-## I'm a recent Computer Engineering undergraduate
-- 🌱 Currently in the 3rd year
 - 🏃 I practice Athletics since I'm 9 years old
 - ⭐ 2020's Objective: Contribute more to open source
 
@@ -147,14 +144,8 @@ in about add : Don't just fork, star it ! 👀
 
 https://github.com/JessicaLim8/JessicaLim8
 
-# Hi I'm Jessica 👋
-
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
-src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
 
 ######################################################
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Akshit</h1>
 
 
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=gargakshit&show_icons=true" alt="gargakshit" /> </p>
