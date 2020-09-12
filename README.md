@@ -1,8 +1,13 @@
- ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+ <!--
+**UjwalKandi/UjwalKandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<h1 align="left">Hi there, I'm <a href="https://www.kaggle.com/ujwalkandi" target="_blank">Ujwal Kandi</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32" /></h1>
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-## I'm a recent Computer Engineering undergraduate
+<h2 align="left">Hi there, I'm <a href="https://www.kaggle.com/ujwalkandi" target="_blank">Ujwal Kandi</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h2>
+
+### I'm a recent Computer Engineering undergraduate
+
 - 🔭 I’m currently working on a 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,8 +15,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-- 🏃 I practice Athletics since I'm 9 years old
 - ⭐ 2020's Objective: Contribute more to open source
 
 ## Connect with me!
