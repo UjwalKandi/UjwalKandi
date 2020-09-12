@@ -247,6 +247,3 @@ My GitHub Profile README. Don't just fork, star it, so others can find it too! �
 <br>&nbsp;&nbsp;📌 Living in Rafaela, from Reconquista 🇦🇷
 <br>&nbsp;&nbsp;✉ lucas5zvazquez@gmail.com
 <br>&nbsp;&nbsp;🌎 https://lucasvazq.github.io/
-
-
-
