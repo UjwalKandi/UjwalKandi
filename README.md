@@ -13,10 +13,13 @@
 - ⚡ Fun fact: The universe is vaster than anything else in the universe. 
 
 ## Connect with me!
-[<img align="left" alt="LinkedIn" width="22px"href="https://public.tableau.com/profile/ujwal.kandi#!/" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][tableau]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][tableau]
+<p align='left'>
+   <a href="https://www.linkedin.com/in/ujwalkandi"><img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/UjwalKandiii"><img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter-3.svg"></a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/ujwalkandi"><img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20Icon.svg"></a>&nbsp;&nbsp;
+<a href="https://public.tableau.com/profile/ujwal.kandi#!/"><img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau-software.svg"></a>&nbsp;&nbsp;
+ <a href="https://github.com/UjwalKandi"><img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
+ </p>
 
 <br />
 
