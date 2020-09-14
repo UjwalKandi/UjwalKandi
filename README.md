@@ -8,12 +8,11 @@
 
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'></a>
 - 🎓 I'm a recent Computer Engineering undergraduate 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning *React* and *D3.js*
-- 💬 Ask me about EDA, Data Viz and 
-- ⭐ 2020's Objective: Contribute more to open source
-- ⚡ Fun fact: The universe is vaster than anything else in the universe. 
+- 💻 I’m currently learning *TypeScript* and *D3.js* 
+- ⭐ 2020's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ I love *photography*, *programming*, *data science*, and *books* 
 
-## Where to find me 
+### Where to find me 
 <p align='left'>
    <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank"><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/UjwalKandiii" target="_blank"><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter-3.svg"></a>&nbsp;&nbsp;
@@ -46,29 +45,12 @@
 
 <img align="center" alt="UjwalKandi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=andrefpoliveira&show_icons=true&hide_border=true" />
 
-##########################################################
-
-### Hi there. I'm Khuyen 👋
-
-- :zap: I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
-- 📫 How to find me: 
-  - :bulb: [Medium articles](https://medium.com/@khuyentran1476)
-  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
-  - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
-
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ########################################################
 https://github.com/M0nica/M0nica/blob/main/README.md
 
 # Hi, I'm Monica 👋🏾 👩🏾‍💻
-
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
 ####################################################
 https://github.com/bdougie/bdougie/blob/master/README.md
