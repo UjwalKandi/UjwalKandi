@@ -10,7 +10,10 @@
 - 🎓 I'm a recent Computer Engineering undergraduate 
 - 💻 I’m currently learning *TypeScript* and *D3.js* 
 - ⭐ 2020's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love *photography*, *programming*, *data science*, and *books* 
+- ⚡ I love photography, programming, data science, and books 
+
+<br />
+
 
 ### Where to find me 
 <p align='left'>
@@ -41,37 +44,13 @@
 
 <br />
 
----
-
-<img align="center" alt="UjwalKandi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=andrefpoliveira&show_icons=true&hide_border=true" />
-
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-########################################################
-https://github.com/M0nica/M0nica/blob/main/README.md
-
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
-
-####################################################
-https://github.com/bdougie/bdougie/blob/master/README.md
-
-# octatcat.gif
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ########################################################
 # views button
 ![](https://komarev.com/ghpvc/?username=athul&color=green&style=flat-square&label=visitors)
 
-# last commit
-
-
-########################################################
-
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
-
-########################################################
 https://github.com/mopig/mopig/blob/master/README.md
 
 > 👨🏻‍💻 Web Front-end Developer
@@ -79,13 +58,3 @@ https://github.com/mopig/mopig/blob/master/README.md
 ![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
 ![pv](https://pageview.vercel.app/?github_user=mopig)
-
-
-# Visitors
-
-[![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
-
-&nbsp;&nbsp;👨 Lucas Vazquez
-<br>&nbsp;&nbsp;📌 Living in Rafaela, from Reconquista 🇦🇷
-<br>&nbsp;&nbsp;✉ lucas5zvazquez@gmail.com
-<br>&nbsp;&nbsp;🌎 https://lucasvazq.github.io/
