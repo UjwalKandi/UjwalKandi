@@ -6,19 +6,24 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.kaggle.com/ujwalkandi" target="_blank">Ujwal Kandi</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h2>
 
+# octatcat.gif
+
+<img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 - 🎓 I'm a recent Computer Engineering undergraduate 
 - 💻 I’m currently learning *React* and *D3.js*
 - 💬 Ask me about EDA, Data Viz and 
 - ⭐ 2020's Objective: Contribute more to open source
 - ⚡ Fun fact: The universe is vaster than anything else in the universe. 
 
-## Connect with me!
+## Where to find me 
 <p align='left'>
-   <a href="https://www.linkedin.com/in/ujwalkandi"><img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/UjwalKandiii"><img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter-3.svg"></a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/ujwalkandi"><img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20Icon.svg"></a>&nbsp;&nbsp;
-<a href="https://public.tableau.com/profile/ujwal.kandi#!/"><img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau-software.svg"></a>&nbsp;&nbsp;
- <a href="https://github.com/UjwalKandi"><img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/ujwalkandi"><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/UjwalKandiii"><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter-3.svg"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ujwal_kandi"><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/instagram-2-1.svg"></a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/ujwalkandi"><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20Icon.svg"></a>&nbsp;&nbsp;
+<a href="https://public.tableau.com/profile/ujwal.kandi#!/"><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau-software.svg"></a>&nbsp;&nbsp;
+ <a href="https://github.com/UjwalKandi"><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
  </p>
 
 <br />
@@ -35,22 +40,11 @@
 
 ---
 
-<img align="center" alt="andrefpoliveira's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=andrefpoliveira&show_icons=true&hide_border=true" />
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/andrefpoliiveiira/
-[instagram]: https://www.instagram.com/andrefpoliiveiira/
-[github]: https://github.com/andrefpoliveira
+<img align="center" alt="UjwalKandi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=andrefpoliveira&show_icons=true&hide_border=true" />
 
 ##########################################################
 
 ### Hi there. I'm Khuyen 👋
-
-<!--
-**khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
