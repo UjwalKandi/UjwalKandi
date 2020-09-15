@@ -14,7 +14,8 @@
 - ⭐ 2020's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love photography, programming, data science and books 
 
-#### Languages and Tools 🔧
+
+#### Languages and Tools 
 <p>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git"></code>
@@ -35,7 +36,6 @@
 
 [![Ujwal Kandi's github stats](https://github-readme-stats.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_rank=false&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
 
 #### Where to find me  
 <p align='left'>
