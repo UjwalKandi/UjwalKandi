@@ -34,10 +34,10 @@
 
 <br />
 
-[![Ujwal Kandi's github stats](https://github-readme-stats.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_rank=false&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Ujwal Kandi's github stats](https://github-readme-stats.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=chartreuse-dark&hide_rank=false&hide=stars,prs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### Where to find me  
+#### Find me on  
 <p align='left'>
    <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/UjwalKandiii" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter-3.svg"></a>&nbsp;&nbsp;
