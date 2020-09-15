@@ -36,7 +36,7 @@
 
 [![Ujwal Kandi's github stats](https://github-readme-stats.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars,prs&include_all_commits=true)](https://github.com/UjwalKandi?tab=repositories)
 
-[![Most Uesd Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=8&theme=chartreuse-dark)](https://github.com/UjwalKandi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=8&theme=blue-green)](https://github.com/UjwalKandi)
 
 
 #### Find me on  
@@ -49,11 +49,7 @@
  <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
  </p>
 
-<!--
-![](https://komarev.com/ghpvc/?username=athul&color=green&style=flat-square&label=visitors)
 
-https://github.com/mopig/mopig/blob/master/README.md
--->
 ![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
 ![GitHub last commit](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/last%20commit.svg)
 ![pv](https://pageview.vercel.app/?github_user=UjwalKandi)
