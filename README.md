@@ -34,9 +34,9 @@
 
 <br />
 
-[![Ujwal Kandi's github stats](https://github-readme-stats.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=chartreuse-dark&hide_rank=false&hide=stars,prs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ujwal Kandi's github stats](https://github-readme-stats.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars,prs&include_all_commits=true)](https://github.com/UjwalKandi?tab=repositories)
 
-[![Most Uesd Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Uesd Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=8&theme=chartreuse-dark)](https://github.com/UjwalKandi)
 
 
 #### Find me on  
@@ -53,8 +53,7 @@
 ![](https://komarev.com/ghpvc/?username=athul&color=green&style=flat-square&label=visitors)
 
 https://github.com/mopig/mopig/blob/master/README.md
-
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
 -->
+![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
+![GitHub last commit](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/last%20commit.svg)
+![pv](https://pageview.vercel.app/?github_user=UjwalKandi)
