@@ -45,9 +45,9 @@
 
 <br />
 
+<!--
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 ![](https://komarev.com/ghpvc/?username=athul&color=green&style=flat-square&label=visitors)
 
 https://github.com/mopig/mopig/blob/master/README.md
