@@ -11,7 +11,7 @@
 
 - 🎓 I'm a recent Computer Engineering undergraduate 
 - 💻 I’m currently learning *TypeScript* and *D3.js* 
-- ⭐ 2020's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⭐ 2021's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love photography, programming, data science and books 
 
 
