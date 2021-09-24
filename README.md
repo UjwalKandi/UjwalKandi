@@ -1,5 +1,5 @@
  <!--
-**UjwalKandi/UjwalKandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ujwal-kandi/UjwalKandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
@@ -37,9 +37,9 @@
 
 <br />
 
-[![Ujwal Kandi's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/UjwalKandi?tab=repositories)
+[![Ujwal Kandi's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=ujwal-kandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/ujwal-kandi?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=10&theme=blue-green)](https://github.com/UjwalKandi)
+[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=10&theme=blue-green)](https://github.com/ujwal-kandi)
 
 
 #### Find me on  
@@ -50,24 +50,24 @@
  <a href="https://instagram.com/ujwal_kandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/instagram-2-1.svg"></a>&nbsp;&nbsp;
  <a href="https://www.kaggle.com/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20Icon.svg"></a>&nbsp;&nbsp;
  <a href="https://public.tableau.com/profile/ujwal.kandi#!/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau-software.svg"></a>&nbsp;&nbsp;
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
+ <a href="https://github.com/ujwal-kandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
  
  </p>
  -->
 
  <p align='left'>
-   <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://twitter.com/UjwalKandiii" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://instagram.com/ujwal_kandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://www.kaggle.com/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://public.tableau.com/profile/ujwal.kandi#!/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://dev.to/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Dev--black.svg"></a>&nbsp;&nbsp;
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/ujwal-kandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/UjwalKandiii" target="_blank"><img height="25" src="https://raw.githubusercontent.com/ujwal-kandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://instagram.com/ujwal_kandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/ujwal-kandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://www.kaggle.com/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/ujwal-kandi/UjwalKandi/changes-to-readme/svg/Kaggle%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://public.tableau.com/profile/ujwal.kandi#!/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/ujwal-kandi/UjwalKandi/changes-to-readme/svg/tableau%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://dev.to/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/ujwal-kandi/UjwalKandi/master/svg/Dev--black.svg"></a>&nbsp;&nbsp;
+ <a href="https://github.com/ujwal-kandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/ujwal-kandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  
  </p>
 
 
-![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
-![GitHub last commit](https://github.com/UjwalKandi/UjwalKandi/blob/master/svg/last%20commit.svg)
-![pv](https://pageview.vercel.app/?github_user=UjwalKandi)
+![build](https://github.com/ujwal-kandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
+![GitHub last commit](https://github.com/ujwal-kandi/UjwalKandi/blob/master/svg/last%20commit.svg)
+![pv](https://pageview.vercel.app/?github_user=ujwal-kandi)
 
