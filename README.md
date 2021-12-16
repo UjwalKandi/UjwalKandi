@@ -11,7 +11,7 @@
 
 - 🎓 I'm a Computer Engineering undergrad  
 - 💻 I’m currently working at [Epsilon](https://www.epsilon.com/us) 
-- 👯 I’m looking to collaborate on projects that are using Python.
+- 👯 Looking to collaborate on projects that are using Python.
 - ⭐ 2021's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love photography, programming, data science and books 
 
@@ -38,7 +38,23 @@
 
 <br />
 
+<p>
+    <details>
+     <summary><strong>Github Stats</strong></summary>
+     
 [![Ujwal Kandi's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/UjwalKandi?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/UjwalKandi)
+    </details>
+</p>
+
+
+<!-- <p>
+    <details>
+        <summary><strong>Github Stats</strong></summary>
+        <p><kbd><img width=400 src="https://github-readme-stats.vercel.app/api?username=UjwalKandi&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true&include_all_commits=true"><img height=158 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=10&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true&card_width=485&line_height=35" /></kbd></p>
+    </details>
+</p> -->
+
+
 
 <!-- <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=UjwalKandi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />wi*quL3fcV<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalKandi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> -->
 
