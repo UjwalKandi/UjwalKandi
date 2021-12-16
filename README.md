@@ -11,6 +11,7 @@
 
 - 🎓 I'm a Computer Engineering undergrad  
 - 💻 I’m currently working at [Epsilon](https://www.epsilon.com/us) 
+- 👯 I’m looking to collaborate on projects that are using Python.
 - ⭐ 2021's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love photography, programming, data science and books 
 
