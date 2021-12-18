@@ -80,8 +80,14 @@
  <a href="https://public.tableau.com/profile/ujwal.kandi#!/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://dev.to/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Dev--black.svg"></a>&nbsp;&nbsp;
  <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
- 
- </p>
+
+<a href="https://bit.ly/2ZfPIUE"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@adityatelange"></a>
+<a href="https://bit.ly/3junz3J"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@adityatelange"></a>
+<a href="https://bit.ly/3npbnCi"><img src="https://img.shields.io/badge/HackTheBox--_.svg?style=social&logo=hackthebox" alt="hackthebox@v01dspac3"></a>
+<a href="https://bit.ly/3Epa3GH"><img src="https://img.shields.io/badge/Gitlab--_.svg?style=social&logo=gitlab" alt="Gitlab@adityatelange"></a>
+<a href="https://bit.ly/3m7DVRx"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social&logo=mail.ru" alt="contactme"></a>
+
+</p>
 
 
 ![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
