@@ -71,7 +71,9 @@
  
  </p>
  -->
-
+ 
+ 
+<!-- 
  <p align='left'>
    <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/UjwalKandiii" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
@@ -79,13 +81,18 @@
  <a href="https://www.kaggle.com/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://public.tableau.com/profile/ujwal.kandi#!/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://dev.to/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Dev--black.svg"></a>&nbsp;&nbsp;
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
-<!-- 
-<a href="https://bit.ly/2ZfPIUE"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@adityatelange"></a>
-<a href="https://bit.ly/3junz3J"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@adityatelange"></a>
-<a href="https://bit.ly/3npbnCi"><img src="https://img.shields.io/badge/HackTheBox--_.svg?style=social&logo=hackthebox" alt="hackthebox@v01dspac3"></a>
-<a href="https://bit.ly/3Epa3GH"><img src="https://img.shields.io/badge/Gitlab--_.svg?style=social&logo=gitlab" alt="Gitlab@adityatelange"></a>
-<a href="https://bit.ly/3m7DVRx"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social&logo=mail.ru" alt="contactme"></a> -->
+ <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp; -->
+
+ 
+<a href="https://www.linkedin.com/in/ujwalkandi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@ujwalkandi"></a>
+<a href="https://twitter.com/UjwalKandiii"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@UjwalKandiii"></a>
+<a href="https://instagram.com/ujwal_kandi"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram@ujwal_kandi"></a>
+<a href="https://www.kaggle.com/ujwalkandi"><img src="https://img.shields.io/badge/Kaggle--_.svg?style=social&logo=kaggle" alt="Kaggle@ujwalkandi"></a>
+<a href="https://public.tableau.com/profile/ujwal.kandi"><img src="https://img.shields.io/badge/Tableau--_.svg?style=social&logo=tableau" alt="Tableau@ujwal.kandi"></a>
+<a href="https://dev.to/ujwalkandi"><img src="https://img.shields.io/badge/dev.to--_.svg?style=social&logo=dev.to" alt="Dev@ujwalkandi"></a>
+
+ <!--<a href="https://t.me/ujwal_kandi"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social&logo=mail.ru" alt="contactme"></a>
+linkedi | Twitter | insta | kaggle | tableau | dev | Telegram -->
 
 </p>
 
