@@ -84,7 +84,7 @@
  <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp; -->
 
  
-<a href="https://www.linkedin.com/in/ujwalkandi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@ujwalkandi"></a>
+<a href="https://www.linkedin.com/in/ujwalkandi"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn@ujwalkandi"></a>
 <a href="https://twitter.com/UjwalKandiii"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@UjwalKandiii"></a>
 <a href="https://instagram.com/ujwal_kandi"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram@ujwal_kandi"></a>
 <a href="https://www.kaggle.com/ujwalkandi"><img src="https://img.shields.io/badge/Kaggle--_.svg?style=social&logo=kaggle" alt="Kaggle@ujwalkandi"></a>
