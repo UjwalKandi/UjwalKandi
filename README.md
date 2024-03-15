@@ -32,7 +32,7 @@
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau-software.svg" alt="Tableau"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/power-bi-1.svg" alt="Power BI"></code>
+<!--   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/power-bi-1.svg" alt="Power BI"></code> -->
   <code><img height="25" src="https://github.com/UjwalKandi/UjwalKandi/blob/c45f674e1145d04d97cd57f4e9dac336c5e29600/svg/jira-3.svg" alt="Jira"></code>
 
 </p>
