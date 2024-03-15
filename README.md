@@ -13,8 +13,8 @@
 
 - 🎓 I'm a graduate student enrolled at McCombs School of Business
 - 👯 Looking to collaborate on projects that are using Python.
-- ⭐ 2024's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love photography, programming, data science and books 
+- 🌟 2024's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📷 I love photography, programming, data science and books 
 
 
 #### Languages and Tools 
