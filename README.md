@@ -11,7 +11,7 @@
  
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- 🎓 I'm a graduate student enrolled at McCombs School of Business
+- 🎓 Recent graduate from UT Austin's McCombs School of Business
 - 👯 Looking to collaborate on projects that are using Python.
 - 🌟 2024's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📷 I love photography, programming, data science and books 
