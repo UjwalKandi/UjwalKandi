@@ -13,7 +13,7 @@
 
 - 🎓 Recent graduate from UT Austin's McCombs School of Business
 - 👯 Looking to collaborate on projects that are using Python.
-- 🌟 2024's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌟 2025's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📷 I love photography, programming, data science and books 
 
 
